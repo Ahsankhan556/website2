@@ -1,0 +1,30 @@
+
+    body{
+        background-image: url("background\ color.jpg");
+        background-size: 100%;
+        color: white;
+        
+
+
+
+}
+
+h1{
+    display: flex;
+justify-content: center;
+align-items: center;
+margin-top: 150px;
+margin-right: 500px;
+color: red;
+
+}
+h3{
+    display: flex;
+justify-content: center;
+align-items: center;
+margin-top: 30px;
+margin-right: 500px;
+color: #687ee9;
+
+
+}

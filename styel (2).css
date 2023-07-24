@@ -1,0 +1,155 @@
+*{
+margin: 0%;
+padding: 0%;
+}
+body{
+background-image: url("background\ color.jpg");
+background-size: 100%;
+color: white;
+}
+nav{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    margin-top: 30px;
+}
+ul{
+    display: flex;
+    list-style: none;
+
+}
+nav h1{
+font-size: 50px;
+
+}
+nav span{
+    color: RED;
+
+
+}
+ul button{
+width: 100px;
+height: 34px;
+background: rgb(231, 23, 23);
+color: white;
+font-size: 18px;
+border: none;
+border-radius: 3px;
+cursor: pointer;
+}
+ul li a{
+margin-inline: 30px;
+font-size: 25px;
+
+}
+ul li a:hover{
+border-bottom: 4px solid blue;
+border-radius: 3px;
+margin-top: 2px;
+cursor: pointer;
+font-size: 27px;
+
+}
+.text{
+margin-left: 7%;
+margin-top: 120px;
+
+}
+.text h1{
+font-size: 100px;
+}
+
+.text p{
+    font-size: 27px;
+    margin-top: 20px;
+    }
+.text button{
+width: 170px;
+height: 44px;
+background-color: rgb(235, 21, 21);
+color: #fff;
+border: none;
+margin-top: 50px;
+font-size: 25px;
+
+}
+.text button :hover{
+/* border:3px solid white; */
+background-color: rgb(244, 20, 20);
+cursor: pointer;
+
+}
+ul a{
+text-decoration: none;
+color: white;
+
+
+
+
+}
+button a{
+
+text-decoration: none;
+color: white;
+outline: none;
+border: none;
+
+
+}
+
+
+
+
+.inputbox{
+margin: 85px;
+}
+.inputbox{
+border-style: solid;
+width: 400px;
+/* height: 400px; */
+text-align: center;
+border-color:#fff);
+border-radius:50px;
+
+
+}
+ table td { 
+padding: 15px;
+margin: 10px;
+
+
+}
+BUTTON{
+    background-color: red;
+    color: white;
+    width:120px;
+    height: 40px;
+    border: none;
+    margin: 10px;
+    border-radius: 50px;
+    /* display: flex; */
+}
+td input{
+    padding: 10px;
+    border-radius:5px ;
+}
+label input{
+    /* padding: 5px; */
+    margin: 15px;
+}
+/* h1{
+display: flex;
+justify-content: center;
+align-items: center;
+margin-top: 150px;
+margin-right: 500px;
+}
+h3{ */
+/* 
+   c
+
+
+
+    
+}
+ */
